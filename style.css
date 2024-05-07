@@ -19,7 +19,7 @@ body{
   max-width: 660px;
   width: 100%;
   padding: 70px;
-  background: hwb(35 56% 15%);
+  background: hwb(30 85% 15%);
   border-radius: 20px;
   box-shadow: 0 20px 40px rgba(42, 37, 37, 0.01);
 }
